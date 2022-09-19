@@ -1,0 +1,15 @@
+/Users/arinacherednik/Projects/dz1/exercise3/bin/Debug/net6.0/exercise3
+/Users/arinacherednik/Projects/dz1/exercise3/bin/Debug/net6.0/exercise3.deps.json
+/Users/arinacherednik/Projects/dz1/exercise3/bin/Debug/net6.0/exercise3.runtimeconfig.json
+/Users/arinacherednik/Projects/dz1/exercise3/bin/Debug/net6.0/exercise3.dll
+/Users/arinacherednik/Projects/dz1/exercise3/bin/Debug/net6.0/exercise3.pdb
+/Users/arinacherednik/Projects/dz1/exercise3/obj/Debug/net6.0/exercise3.csproj.AssemblyReference.cache
+/Users/arinacherednik/Projects/dz1/exercise3/obj/Debug/net6.0/exercise3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arinacherednik/Projects/dz1/exercise3/obj/Debug/net6.0/exercise3.AssemblyInfoInputs.cache
+/Users/arinacherednik/Projects/dz1/exercise3/obj/Debug/net6.0/exercise3.AssemblyInfo.cs
+/Users/arinacherednik/Projects/dz1/exercise3/obj/Debug/net6.0/exercise3.csproj.CoreCompileInputs.cache
+/Users/arinacherednik/Projects/dz1/exercise3/obj/Debug/net6.0/exercise3.dll
+/Users/arinacherednik/Projects/dz1/exercise3/obj/Debug/net6.0/refint/exercise3.dll
+/Users/arinacherednik/Projects/dz1/exercise3/obj/Debug/net6.0/exercise3.pdb
+/Users/arinacherednik/Projects/dz1/exercise3/obj/Debug/net6.0/exercise3.genruntimeconfig.cache
+/Users/arinacherednik/Projects/dz1/exercise3/obj/Debug/net6.0/ref/exercise3.dll
